@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"59f634d167c0ad5b","x":-432,"y":-235,"width":250,"height":60,"type":"text","text":"发的所发生的"},
+		{"id":"aebe3f1c5d24c781","x":-119,"y":-92,"width":250,"height":60,"type":"text","text":"发的顺丰都是"}
+	],
+	"edges":[
+		{"id":"549c81d9e45f12ff","fromNode":"59f634d167c0ad5b","fromSide":"bottom","toNode":"aebe3f1c5d24c781","toSide":"top"}
+	]
+}
